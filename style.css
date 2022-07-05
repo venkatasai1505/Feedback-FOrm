@@ -1,0 +1,23 @@
+div{
+    text-align: center;
+    color: white;
+    font-size: larger;
+    text-align: center;
+    background:url("https://images.unsplash.com/photo-1536147210925-5cb7a7a4f9fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnxpUk9NLXhWUVNWd3x8ZW58MHx8fHw%3D&w=1000&q=80");
+    width: 50%;
+    font-family:'Segoe UI';
+}
+
+form{
+    position: relative;
+    top:20px;
+    left:75px;
+}
+
+#btn{
+    font-size: large;
+    background-color: rgb(162, 0, 146);
+    color: rgb(255, 255, 255);
+}
+
+
